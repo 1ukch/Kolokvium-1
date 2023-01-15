@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="cd.connect.composites.java.composite.springweb" type="repository">
+    <properties maven-id="cd.connect.composites.java:connect-composite-springweb:1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cd/connect/composites/java/connect-composite-springweb/1.1/connect-composite-springweb-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cd/connect/composites/java/connect-composite-spring/1.1/connect-composite-spring-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/bluetrainsoftware/stickycode-extended-config/2.2/stickycode-extended-config-2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/configured/sticky-configured-spring4/1.3/sticky-configured-spring4-1.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/sticky-reflector/3.3/sticky-reflector-3.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/sticky-exception/3.2/sticky-exception-3.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/configured/sticky-configured/6.8/sticky-configured-6.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/composite/sticky-composite-logging-api/3.3/sticky-composite-logging-api-3.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/configured/sticky-configured-api/5.7/sticky-configured-api-5.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/stereotype/sticky-stereotype-configured/3.3/sticky-stereotype-configured-3.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/sticky-coercion/6.6/sticky-coercion-6.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/sticky-metadata-api/3.3/sticky-metadata-api-3.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/bootstrap/sticky-bootstrap-spring4/2.5/sticky-bootstrap-spring4-2.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/sticky-metadata-reflective/3.2/sticky-metadata-reflective-3.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/bootstrap/sticky-bootstrap-api/3.4/sticky-bootstrap-api-3.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/stereotype/sticky-stereotype-failure/2.3/sticky-stereotype-failure-2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/configuration/sticky-configuration/2.4/sticky-configuration-2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/configuration/sticky-configuration-api/2.3/sticky-configuration-api-2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/sticky-coercion-api/4.4/sticky-coercion-api-4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/stickycode/stereotype/sticky-stereotype-component/3.2/sticky-stereotype-component-3.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.4/commons-io-2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/4.3.9.RELEASE/spring-expression-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.9.RELEASE/spring-aop-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.9.RELEASE/spring-webmvc-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

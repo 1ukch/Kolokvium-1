@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="alipay.sofa.ark.common.springboot" type="repository">
+    <properties maven-id="com.alipay.sofa:sofa-ark-common-springboot:1.1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/sofa/sofa-ark-common-springboot/1.1.1/sofa-ark-common-springboot-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
